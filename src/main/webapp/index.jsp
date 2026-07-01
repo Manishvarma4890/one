@@ -36,6 +36,8 @@
             margin: 0;
             font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
             color: var(--primary);
+            color: var(--primary);
+            color: var(--primary);
             background: var(--bg);
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
